@@ -1,0 +1,19 @@
+{
+  "name": "trucktrackingsystem",
+  "version": "1.0.0",
+  "description": "truck tracking system",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "author": "Havva Polatli",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.2",
+    "nodemon": "^2.0.15",
+    "pg": "^8.7.1"
+  },
+  "devDependencies": {
+    "prettier": "^2.5.1"
+  }
+}
